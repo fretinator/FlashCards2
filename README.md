@@ -6,7 +6,7 @@ New version of Flash Cards with buttons to track correct answers.
 
   Hardware needed:
     SD Card - I'm using external with SPI. 
-      You could also use Teensy with
+      You could also use Teensy with internal card.
     Grove 2x16 LCD RGB Backlight. 
       You could moidfy for other screens.
     2 Buttons for correct and incorrect response.
